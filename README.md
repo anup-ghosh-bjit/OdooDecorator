@@ -1,4 +1,3 @@
-
 <h1> Local Dining Guide </h1>
 Web Based Dining Information Solution </br></br>
 <p> Welcome to the Local Dining Guide project! This web-based software solution is designed to
@@ -110,4 +109,21 @@ Thank you to the following contributors who have helped to improve this project:
 | Anowarul Karim     | anowarul.karim@bjitacademy.com    | 017********  |
 
 
+
+<a href="https://ibb.co.com/8DjpXgW"><img src="https://i.ibb.co.com/zhSYNVy/1000-F-203791136-ASp65-I5ay-Skx0nkkq-GY10-VRAKr-SE8di8.jpg" alt="1000-F-203791136-ASp65-I5ay-Skx0nkkq-GY10-VRAKr-SE8di8" width="600" height="auto" border="0"></a>
+
+
+### Contact Information 
+
+For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website [http://www.localdiningguide.com](http://www.localdiningguide.com). 
+
+### Follow us on social media:
+
+
+<a href="https://twitter.com/@localdiningguide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@localdiningguide" height="30" width="40" /></a> <b>Twitter</b>: @localdiningguide</br></br>
+<a href="https://fb.com/@localdiningguide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@localdiningguide" height="30" width="40" /></a><b>Facebook</b>: LocalDiningGuide</br></br>
+<a href="https://instagram.com/@localdiningguide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@localdiningguide" height="30" width="40" /></a><b>Instagram</b>: @localdiningguide
+
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! 🍽️
 
