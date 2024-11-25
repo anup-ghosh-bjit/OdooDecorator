@@ -88,3 +88,26 @@ Follow these steps to set up the project:
    ```bash
    open index.html
 
+
+# Usage
+
+- **Search for Restaurants**: Use the search functionality to find dining options based on your preferences.
+- **Explore Restaurant Profile**: Click on a restaurant to view its detailed profile, including menu items and reviews.
+- **Read and Write Reviews**: Share your dining experiences by leaving reviews and ratings for restaurants.
+- **Save Favourites**: Create an account to save your favourite restaturants and receive personalized recommendatitons.
+- **Get Direction**: Click on the map integration to get direction to the selected restaurant.
+
+<br>
+
+Thank you to the following contributors who have helped to improve this project:
+
+| Name               | Email                             | Phone        |
+|--------------------|-----------------------------------|--------------|
+| Anup Ghosh         | anup.ghosh@bjitacademy.com        | 017********  |
+| Ashiqur Rahman Sami| ashiqur.rahman@bjitacademy.com    | 017********  |
+| Farhana Ananda     | farhana.chowdhury@bjitacademy.com | 017********  |
+| Abdullah           | abdullah.ashik@bjitacademy.com    | 017********  |
+| Anowarul Karim     | anowarul.karim@bjitacademy.com    | 017********  |
+
+
+
